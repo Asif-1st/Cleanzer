@@ -27,7 +27,7 @@ function App() {
         <Contact />
         <Footer />
         <div className=" bg-[#3EC5FA] w-full h-14 flex justify-center items-center">
-          <p className=" text-center px-4 text-white">Copyright ©Ideapeel 2023 | All Rights Reserved</p>
+          <p className=" text-center px-4 text-white">Copyright ©Developer Asif 2023 | All Rights Reserved</p>
         </div>
       </div>
     </>
